@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+	<item 
+	    android:id="@+id/Beranda"
+	    android:title="Beranda"/>
+	
+	<item 
+	    android:id="@+id/Pencarian"
+	    android:title="Pencarian"/>
+	
+	<item 
+	    android:id="@+id/Tentang"
+	    android:title="Tentang"/>
+	
+	<item 
+	    android:id="@+id/Bantuan"
+	    android:title="Bantuan"/>
+    
+	<item 
+	    android:id="@+id/Keluar"
+	    android:title="Keluar"/>
+	
+</menu>
